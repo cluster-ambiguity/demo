@@ -1,0 +1,18 @@
+[
+	"fashion_mnist_tsne.json",
+	"breast_cancer_wisconsin_original_rp.json",
+	"cardiovascular_study_isomap.json",
+	"coil20_densmap.json",
+	"crowdsourced_mapping_umap.json",
+	"dermatology_isomap.json",
+	"diabetic_retinopathy_debrecen_densmap.json",
+	"dry_bean_densmap.json",
+	"insurance_company_benchmark_densmap.json",
+	"pen_based_recognition_of_handwritten_digits_umap.json",
+	"ph_recognition_densmap.json",
+	"rice_seed_gonen_jasmine_lle.json",
+	"seismic_bumps_umap.json",
+	"statlog_image_segmentation_lle.json",
+	"website_phishing_densmap.json",
+	"yeast_tsne.json"
+]
